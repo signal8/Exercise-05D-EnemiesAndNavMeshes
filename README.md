@@ -1,5 +1,6 @@
-# Exercise-05c-LightsAndMaterials
+# Exercise-05D-EnemiesAndNavMeshes
 
+An enemy that will navigate (semi) intelligently.
 
 ## Implementation
 
@@ -8,4 +9,4 @@
 ## Future Development
 
 ## Created by
-Nathan Mishler
+Levi Coffing, Master of Reality
